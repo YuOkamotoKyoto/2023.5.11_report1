@@ -1,0 +1,45 @@
+.fontstyle1 {
+    font-family: serif;
+    font-size: 25pt;
+    font-weight: bold;
+    color: black;
+}
+
+.fontstyle2 {
+    font-family: serif;
+    font-size: 20pt;
+    font-weight: bold;
+    color: black;
+}
+
+.picsize {
+    size: auto;
+}
+
+.hed {
+    text-align: center;
+}
+
+.main {
+    text-align: center;
+    font-size: 12pt;
+}
+
+.mid {
+    text-align: center;
+    font-family: serif;
+    font-size: 10pt;
+    background-color: antiquewhite;
+    border: solid;
+    border-color: antiquewhite;
+}
+
+.sentense {
+    color: black;
+    font-size: 12pt;
+    text-align: center;
+    padding:20px;
+    width: 750px;
+    background-color: rgba(135,206,255,0.45);
+    /* 色コードを使用して、透明度を最後のプロパティで調整できる。 */
+}
